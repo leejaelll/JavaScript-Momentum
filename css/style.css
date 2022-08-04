@@ -1,0 +1,9 @@
+.hidden {
+  display: none;
+}
+
+button {
+  border-style: none;
+  background-color: rgba(0, 0, 0, 0);
+  font-size: 30px;
+}
